@@ -1,18 +1,18 @@
-<h1 align="center"> ✧ A17 ✧ </h1>
+<h1 align="center"> ✧ SAAD ✧ </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Welcome+to+A17+MD+!;Explore+the+world+of+features!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Welcome+to+SAAD+A17BOT+MD+!;Explore+the+world+of+features!" />
 </p>
 
 <p align="center">
    <a href="https://github.com/Kai0071">
-    <img src="https://graph.org/file/14d7cc038fa3192a8fe43.jpg" width="249">
+    <img src="https://graph.org/file/37eb4b3bfd06279104182.jpg" width="249">
 </p>
 
 <h1 align="center"> A17 BoT (Beta)</h1>
 
 <p align="center"> 
-  Hi there, I'm "A17," a versatile WhatsApp bot created and reprogrammed by Kai to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
+  Hi there, I'm "A17," a versatile WhatsApp bot created and reprogrammed by SAAD to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
 
 <p align="center"> 
   <a href="https://github.com/Kai0071/A17/stargazers">
